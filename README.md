@@ -1,5 +1,7 @@
 # BusBuddy-V2
 
+BusBuddy is a web-based platform designed to enhance accessibility and convenience in public transportation, specifically targeting remote areas.
+
 ## Problem Statement
 Public transportation in remote areas lacks accessible and reliable information on bus routes and schedules, leading to inconvenience and inefficiencies for commuters and tourists.
 
